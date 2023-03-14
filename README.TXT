@@ -1,0 +1,1 @@
+- Nyalakan terlebih dahulu server json 'json-server --watch db.json' agar berjalan dilocal server

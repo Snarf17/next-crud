@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Jane doe",
+      "email": "jane@mail.com",
+      "address": "jl makasar",
+      "desc": "Designer"
+    },
+    {
+      "id": 3,
+      "name": "Jajang",
+      "email": "jajang@mail.com",
+      "address": "jl.mars",
+      "desc": "developer"
+    }
+  ]
+}
